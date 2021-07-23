@@ -9,3 +9,5 @@ J'apprécie le fait de pouvoir créer des applications et de pouvoir les exporte
 J'aime également travailler sur des sujets touchant à la réalité augmentée 📱 (J'adore ARKit !) et à la réalité virtuelle pour créer toujours plus d'expériences, pour les tablettes, smartphones et casques de VR 🥽. (je suis particulièrement fan de l'oculus quest 2) !
 
 Je passe aussi une partie de mon temps à créer des plugins avec le Window Unity Editor 📝 afin de toujours améliorer mon travail et d'essayer de gagner en productivité  🚀!
+
+https://img.shields.io/badge/-Unity3D-lightblue
