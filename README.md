@@ -21,13 +21,14 @@ Je passe aussi une partie de mon temps à créer des plugins avec le Window Unit
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-E34F26?style=flat&logo=Blender&logoColor=white)
-
+![3dsmax](https://img.shields.io/badge/-3dsMax-E34F26?style=flat&logo=3dsMax&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+
 
 #### DevOps:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-![Tassia Accioly's github stats](https://github-readme-stats.vercel.app/api?username=juliennoe&show_icons=true&theme=great-gatsby)
+![Julien Noé github stats](https://github-readme-stats.vercel.app/api?username=juliennoe&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliennoe&theme=great-gatsby&layout=compact)
