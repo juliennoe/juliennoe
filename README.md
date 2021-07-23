@@ -10,5 +10,10 @@ J'aime également travailler sur des sujets touchant à la réalité augmentée 
 
 Je passe aussi une partie de mon temps à créer des plugins avec le Window Unity Editor 📝 afin de toujours améliorer mon travail et d'essayer de gagner en productivité  🚀!
 
+#### Languages:
+
+![Python](https://img.shields.io/badge/-Python-EDD222?style=flat&logo=Python&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+
 ![Tassia Accioly's github stats](https://github-readme-stats.vercel.app/api?username=juliennoe&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliennoe&theme=great-gatsby&layout=compact)
