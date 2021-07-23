@@ -1,4 +1,4 @@
-### Bonjour ! 👋 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+### Bonjour ! 👋 
 
 Je me présente, Julien Noé développeur Unity 🖥 , je travaille sur ce logiciel avec passion depuis bientôt 10 ans ⏳ !
 
