@@ -1,31 +1,53 @@
-### Bonjour ! 👋 
+# 👋 Hi, I’m Julien Noé
 
-Je me présente, Julien Noé développeur Unity 🖥 , je travaille sur ce logiciel avec passion depuis bientôt 10 ans ⏳ !
+[![GitHub followers](https://img.shields.io/github/followers/nicolasmaurice?label=Followers&style=social)](https://github.com/nicolasmaurice)
+[![GitHub stars](https://img.shields.io/github/stars/nicolasmaurice?label=Stars&style=social)](https://github.com/nicolasmaurice?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=nicolasmaurice&style=flat-square)](https://github.com/nicolasmaurice)
 
-J'aime avant tout toutes les possibilités qu'offre Unity notamment, la 3D, le lighting, l'animation et bien entendu le scripting ⌨️ que j'affectionne tout particulièrement.J'apprécie le fait de pouvoir créer des applications et de pouvoir les exporter en cross-platform pour toujours plus de projet 😊 !
-J'aime également travailler sur des sujets touchant à la réalité augmentée 📱 (J'adore ARKit !) et à la réalité virtuelle pour créer toujours plus d'expériences, pour les tablettes, smartphones et casques de VR 🥽. (je suis particulièrement fan de l'oculus quest 2) !Je passe aussi une partie de mon temps à créer des plugins avec le Window Unity Editor 📝 afin de toujours améliorer mon travail et d'essayer de gagner en productivité  🚀!
+🎮 **Tech Art Manager** passionate about tools, optimization, and productivity in video game production.  
+💼 12 years of experience in XR (AR/VR), now focused on building custom Unity tools to streamline production workflows.
 
-https://user-images.githubusercontent.com/16896722/126727731-49937364-09cd-4687-9fa7-744e105f7e79.mp4
+---
 
-#### Languages:
+## ✨ What I Do
 
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-EDD222?style=flat&logo=Python&logoColor=white)
+🔧 I create **Unity Editor tools** to improve both technical and artistic workflows:
 
-#### Utilities:
+- Data visualization (shaders, localization, assets)
+- Performance analysis (FPS, draw calls, polycount)
+- Task automation to reduce friction and boost output
 
-![Unity](https://img.shields.io/badge/-Unity-007ACC?style=flat&logo=Unity&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-E34F26?style=flat&logo=Blender&logoColor=white)
-![3dsmax](https://img.shields.io/badge/-3dsMax-E34F26?style=flat&logo=3dsMax&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+🎯 My tools are designed to be:
+- Clean, **commented**, and maintainable
+- **Production-ready** for the Unity Asset Store or GitHub
+- Intuitive and scalable: responsive UI, dropdowns, scrollviews, quick navigation
 
+🧠 I also invest in the **skill development** of my team, setting up training plans and mentoring Tech Artists through their growth.
 
-#### DevOps:
+---
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+## 🛠️ Tech Stack
 
-![Julien Noé github stats](https://github-readme-stats.vercel.app/api?username=juliennoe&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliennoe&theme=great-gatsby&layout=compact)
+**Languages:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Unity & Tools:**  
+Unity Editor, URP/HDRP, Shader Graph, Addressables, TextMeshPro, Localization, Profiler
+
+**Other Software:**  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![3dsMax](https://img.shields.io/badge/3ds%20Max-003A60?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📫 Contact
+
+📍 Based in Montreal  
+🌐 [www.juliennoe.com](https://www.juliennoe.com)  
+📬 [Linkedin](www.linkedin.com/in/juliennoe)
+
+---
+
+> *When you build tools, you multiply the value of every person in your team.*
